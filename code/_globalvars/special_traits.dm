@@ -28,6 +28,7 @@ GLOBAL_LIST_INIT(special_traits, build_special_traits())
 	if(length(job.advclass_cat_rolls))
 		// Dont apply the stuff, let adv class handler do it later
 		return
+	apply_prefs_sizecat(character,player) //CC Edit
 	// Apply the stuff if we have a job that has no adv classes
 	apply_character_post_equipment(character, player)
 
