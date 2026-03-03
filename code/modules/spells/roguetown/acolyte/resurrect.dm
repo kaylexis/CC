@@ -83,6 +83,7 @@
 			)
 			target.gib()
 			return TRUE
+		to_chat(user, span_notice("You feel the energies of life flow through you, and into [target.name]... All that's left is hope for the best..."))
 		if(alert(target, "They are calling for you. Are you ready?", "Revival", "I need to wake up", "Don't let me go") != "I need to wake up")
 			target.visible_message(span_notice("Nothing happens. They are not being let go."))
 			return FALSE
