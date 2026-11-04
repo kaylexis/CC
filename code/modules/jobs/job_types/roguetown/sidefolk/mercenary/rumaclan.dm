@@ -38,7 +38,7 @@
 	l_hand = /obj/item/clothing/suit/roguetown/shirt/dress/captainrobe //CC edit- drip
 	cloak = /obj/item/clothing/cloak/eastcloak1
 	armor = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma //scalemail
-	H.skin_armor = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma/chest //light brigadine. //cc edit
+	shirt = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma/chest //light brigadine.
 	pants = /obj/item/clothing/under/roguetown/heavy_leather_pants/eastpants2
 	shoes = /obj/item/clothing/shoes/roguetown/armor/rumaclan
 	gloves = /obj/item/clothing/gloves/roguetown/eastgloves2
@@ -91,7 +91,7 @@
 	l_hand = /obj/item/clothing/suit/roguetown/shirt/dress/captainrobe //CC edit - Drip
 	cloak = /obj/item/clothing/cloak/eastcloak1
 	armor = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma //scalemail
-	H.skin_armor = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma/chest //light brigadine. //cc edit
+	shirt = /obj/item/clothing/suit/roguetown/armor/manual/meditation/easttats/ruma/chest //light brigadine.
 	pants = /obj/item/clothing/under/roguetown/heavy_leather_pants/eastpants2
 	shoes = /obj/item/clothing/shoes/roguetown/armor/rumaclan
 	gloves = /obj/item/clothing/gloves/roguetown/eastgloves2

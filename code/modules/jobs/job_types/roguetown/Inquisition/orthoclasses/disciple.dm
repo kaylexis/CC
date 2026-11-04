@@ -101,7 +101,7 @@
 
 	shoes = /obj/item/clothing/shoes/roguetown/boots/psydonboots
 	armor = /obj/item/clothing/suit/roguetown/armor/manual/sewable/padded/disciple //a slightly-better heavy gambeson.
-	H.skin_armor = /obj/item/clothing/suit/roguetown/armor/manual/sewable/padded/disciple/chest //a heardened leather armor, chest-only. //cc edit
+	shirt = /obj/item/clothing/suit/roguetown/armor/manual/sewable/padded/disciple/chest //a heardened leather armor, chest-only.
 
 	backpack_contents = list(/obj/item/roguekey/inquisitionmanor = 1,
 	/obj/item/paper/inqslip/arrival/ortho = 1)
